@@ -1,2 +1,2 @@
 # OCRProjects
-Project realized during OpenClassRoom
+Project realized during OpenClassRooms
